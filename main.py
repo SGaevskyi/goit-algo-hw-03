@@ -1,1 +1,3 @@
 print("Тест")
+
+print("Test")
